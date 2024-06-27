@@ -197,7 +197,7 @@ Example:
 -- Guides decision-making: Serves as a reference point for making decisions throughout the project.
 
 
-9. Financial Projections: How do you create and present financial projections oin your pitch? What financialinformation to include toattract potential investors:
+9. Financial Projections: How do you create and present financial projections in your pitch? What financialinformation to include toattract potential investors:
 
 ---To create and present financial projections in your pitch---
 
@@ -210,7 +210,7 @@ Example:
 -- Visual aids: Use charts, graphs, and tables to visualize financial data and make it easy to understand.
 -- Narrative: Provide a narrative that explains the assumptions behind your financial projections and the key drivers of growth.
 
----Critical financial information to includ---
+---Critical financial information to include---
 
 --Revenue growth: Show a clear path to revenue growth and scalability.
 -- Gross margin: Demonstrate a clear understanding of your cost structure and pricing strategy.
@@ -235,10 +235,7 @@ Example:
 --- "We believe our software can revolutionize your industry. Will you help us make it happen?"
 --- "The future of software is here. Be part of it. Invest in our project today."
 --- "Ready to experience the power of our software firsthand? Let's schedule a demo."
---- "Join our mission to transform the software landscape. Partner with us today."
-
-
-Remember to make your CTA:
+--- "Join our mission to transform the software landscape. Partner with us today.
 
 
  Submission Guidelines:
